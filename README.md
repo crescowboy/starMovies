@@ -1,6 +1,6 @@
-# star-movies (star-movies)
+# Star Movies 🍿
 
-**star-movies** es una aplicación web que permite a los usuarios explorar películas, ver detalles, y mucho más. Este proyecto utiliza el framework Quasar y está diseñado para ser rápido y fácil de usar.
+**Star Movies** es una aplicación web que permite a los usuarios explorar películas, ver detalles, y mucho más. Este proyecto utiliza el framework Quasar y está diseñado para ser rápido y fácil de usar.
 
 ## Requisitos Previos
 
