@@ -15,20 +15,20 @@
 
 A Quasar Project
 
-## Install the dependencies
+## Instala las dependencias
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar la aplicación en modo de desarrollo (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
 
 
-### Lint the files
+### Limpiar los archivos
 ```bash
 yarn lint
 # or
@@ -36,7 +36,7 @@ npm run lint
 ```
 
 
-### Format the files
+### Formatear los archivos
 ```bash
 yarn format
 # or
@@ -45,7 +45,7 @@ npm run format
 
 
 
-### Build the app for production
+### Crea la aplicación para producción
 ```bash
 quasar build
 ```
