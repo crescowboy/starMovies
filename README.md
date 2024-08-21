@@ -1,21 +1,34 @@
-# star-movies (star-movies)
+# Star Movies 🍿
+
+**Star Movies** es una aplicación web que permite a los usuarios explorar películas, ver detalles, y mucho más. Este proyecto utiliza el framework Quasar y está diseñado para ser rápido y fácil de usar.
+
+## Requisitos Previos
+
+- Node.js v14 o superior
+- Yarn v1.22 o superior / NPM v6 o superior
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/crescowboy/starMovies.git
 
 A Quasar Project
 
-## Install the dependencies
+## Instala las dependencias
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar la aplicación en modo de desarrollo (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
 
 
-### Lint the files
+### Limpiar los archivos
 ```bash
 yarn lint
 # or
@@ -23,7 +36,7 @@ npm run lint
 ```
 
 
-### Format the files
+### Formatear los archivos
 ```bash
 yarn format
 # or
@@ -32,7 +45,7 @@ npm run format
 
 
 
-### Build the app for production
+### Crea la aplicación para producción
 ```bash
 quasar build
 ```
